@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Movie.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4C0325CA1C5932B6149973E9B65D19A65DDCD99D</string>
+				<key>dateExpires</key>
+				<string>2020/6/30</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>XBLZ2ZSWQ5.com.ps.fruits</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>XBLZ2ZSWQ5</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>XBLZ2ZSWQ5.com.ps.fruits</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Movie.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4ccb8d5e-fd64-409b-b14c-39784d71bea3</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>XBLZ2ZSWQ5</string>
+				<key>name</key>
+				<string>Bingxin Li</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
