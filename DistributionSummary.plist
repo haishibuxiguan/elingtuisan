@@ -2,51 +2,44 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Movie.ipa</key>
+	<key>items</key>
 	<array>
 		<dict>
-			<key>architectures</key>
+			<key>assets</key>
 			<array>
-				<string>armv7</string>
-				<string>arm64</string>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/haishibuxiguan/elingtuisan/blob/master/Movie.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/haishibuxiguan/elingtuisan/blob/master/photo_2019-07-27_14-20-46.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/haishibuxiguan/elingtuisan/blob/master/photo_2019-07-27_14-20-41.jpg</string>
+				</dict>
 			</array>
-			<key>certificate</key>
+			<key>metadata</key>
 			<dict>
-				<key>SHA1</key>
-				<string>4C0325CA1C5932B6149973E9B65D19A65DDCD99D</string>
-				<key>dateExpires</key>
-				<string>2020/6/30</string>
-				<key>type</key>
-				<string>iOS Development</string>
-			</dict>
-			<key>entitlements</key>
-			<dict>
-				<key>application-identifier</key>
-				<string>XBLZ2ZSWQ5.com.ps.fruits</string>
-				<key>com.apple.developer.team-identifier</key>
-				<string>XBLZ2ZSWQ5</string>
-				<key>get-task-allow</key>
-				<true/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>XBLZ2ZSWQ5.com.ps.fruits</string>
-				</array>
-			</dict>
-			<key>name</key>
-			<string>Movie.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>4ccb8d5e-fd64-409b-b14c-39784d71bea3</string>
-				<key>name</key>
-				<string>iOS Team Provisioning Profile: *</string>
-			</dict>
-			<key>team</key>
-			<dict>
-				<key>id</key>
-				<string>XBLZ2ZSWQ5</string>
-				<key>name</key>
-				<string>Bingxin Li</string>
+				<key>bundle-identifier</key>
+				<string>com.xxxx.demo</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>movie App download</string>
 			</dict>
 		</dict>
 	</array>
