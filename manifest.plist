@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://shuiguo-1259647897.cos.ap-chengdu.myqcloud.com/Movie.ipa?q-sign-algorithm=sha1&q-ak=AKIDI2AEKD60xFtaWnr98i1PJ3ydkLegbLDx&q-sign-time=1564571604;1564575204&q-key-time=1564571604;1564575204&q-header-list=&q-url-param-list=&q-signature=717e52cd2d34e8c6b5febea542e77d64356a0e6d&x-cos-security-token=29789096bd79b569e6c72af556ea7ae3b598a5d010001</string>
+					<string>https://github.com/haishibuxiguan/elingtuisan/blob/master/Movie.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
