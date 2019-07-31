@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/haishibuxiguan/master/Movie.ipa</string>
+					<string>https://shuiguo-1259647897.cos.ap-chengdu.myqcloud.com/Movie.ipa?q-sign-algorithm=sha1&q-ak=AKIDI2AEKD60xFtaWnr98i1PJ3ydkLegbLDx&q-sign-time=1564571604;1564575204&q-key-time=1564571604;1564575204&q-header-list=&q-url-param-list=&q-signature=717e52cd2d34e8c6b5febea542e77d64356a0e6d&x-cos-security-token=29789096bd79b569e6c72af556ea7ae3b598a5d010001</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/haishibuxiguan/display_57.png</string>
+					<string>https://shuiguo-1259647897.cos.ap-chengdu.myqcloud.com/display_57.jpg?q-sign-algorithm=sha1&q-ak=AKIDMqJ3gif5zLvjYbNd8xDQBNmLzW0FWbKj&q-sign-time=1564571535;1564575135&q-key-time=1564571535;1564575135&q-header-list=&q-url-param-list=&q-signature=32c282cbe3c97d3cc1723166581bcb7349a6a85d&x-cos-security-token=f0d19198f98382a365779e7ed07262afb3fe40e010001</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/haishibuxiguan/display_512.png</string>
+					<string>https://shuiguo-1259647897.cos.ap-chengdu.myqcloud.com/display_512.jpg?q-sign-algorithm=sha1&q-ak=AKIDvEa4QZriGRIo3R3GXsCawjzTibRJ9I2X&q-sign-time=1564571570;1564575170&q-key-time=1564571570;1564575170&q-header-list=&q-url-param-list=&q-signature=1c13bf583562a2dbd3085af5fe6f87a73b3825ac&x-cos-security-token=10da406fe343a0e6a6149b66494c3e527c21fc2310001</string>
 				</dict>
 			</array>
 			<key>metadata</key>
